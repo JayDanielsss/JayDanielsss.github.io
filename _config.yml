@@ -19,7 +19,9 @@ linkedin_username: "jordan-roberts-1bba04261"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 
-remote_theme: pages-themes/architect@v0.2.0
+theme: minima
+minima:
+  skin: dark
 
 rss: rss
 
