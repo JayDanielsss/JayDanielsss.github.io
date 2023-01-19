@@ -22,9 +22,6 @@ linkedin_username: "jordan-roberts-1bba04261"
 #theme: minima
 remote_theme: jekyll/minima
 
-minima:
-  skin: dark
-  
 rss: rss
 
 kramdown:
