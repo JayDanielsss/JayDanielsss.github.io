@@ -3,7 +3,7 @@ Today I started my next semester at UVA, and hopefully my last or second to last
 <br>
   **The Goal**<br>
 The goal behind my thesis is to devolpe an adaptive fitting aproach for partical reconstruction that will ultilize the GPU. 
-In nuclear physics most of the data is from partical collisons that, with the use of software, we can reconstruct the "tracks" of the particals detected after collison back to the original event. 
+In nuclear physics most of the data is from partical collisons that, with the use of software, we can reconstruct the "tracks" of the particles detected after collison back to the original event. 
 With these reconstructions we can glean information on the physics of what is happening in hopes to find something new. 
 <br>
 <br>
